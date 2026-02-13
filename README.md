@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine learning project built in Jupyter Notebook using Python and Scikit-learn to clean data, train a predictive model, evaluate performance, and analyze feature importance.
+I am building a strong foundation in machine learning by working hands on with real datasets, training models, testing performance, and analyzing results. I focus on understanding how models actually work, why certain features matter, and how to turn raw data into meaningful predictions.
